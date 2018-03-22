@@ -36,9 +36,15 @@
     <ClCompile Include="Butterfly.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="Butterfly.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow.h">
       <Filter>Header Files</Filter>
     </QtMoc>
   </ItemGroup>
