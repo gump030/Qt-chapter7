@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Butterfly", "Butterfly\Butt
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MapWidget", "MapWidget\MapWidget.vcxproj", "{D5BD37EA-1D8B-4751-BEFC-92EC31561542}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphicsItem", "GraphicsItem\GraphicsItem.vcxproj", "{6181C66F-44B2-450F-8B31-A45D3FA51F7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{D5BD37EA-1D8B-4751-BEFC-92EC31561542}.Debug|x64.Build.0 = Debug|x64
 		{D5BD37EA-1D8B-4751-BEFC-92EC31561542}.Release|x64.ActiveCfg = Release|x64
 		{D5BD37EA-1D8B-4751-BEFC-92EC31561542}.Release|x64.Build.0 = Release|x64
+		{6181C66F-44B2-450F-8B31-A45D3FA51F7B}.Debug|x64.ActiveCfg = Debug|x64
+		{6181C66F-44B2-450F-8B31-A45D3FA51F7B}.Debug|x64.Build.0 = Debug|x64
+		{6181C66F-44B2-450F-8B31-A45D3FA51F7B}.Release|x64.ActiveCfg = Release|x64
+		{6181C66F-44B2-450F-8B31-A45D3FA51F7B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
